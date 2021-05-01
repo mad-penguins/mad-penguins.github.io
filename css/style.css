@@ -1,0 +1,53 @@
+/* HEADER CONTENT
+-------------------------------------------------- */
+.dropdown-item img{
+  margin-right: 10px;
+}
+
+.dropdown-menu .no_logo{
+  text-indent:42px;
+}
+
+@media (max-width: 396px) {
+  .navbar-brand span{
+    display: none;
+  }
+}
+
+
+.starter-block {
+  padding: 0 0 3rem;
+  text-align: center;
+}
+
+/* MARKETING CONTENT
+-------------------------------------------------- */
+
+/* Center align the text within the three columns below the carousel */
+.marketing .col-lg-6 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+.marketing h2 {
+  font-weight: 400;
+}
+.marketing .col-lg-6 p {
+  margin-right: .75rem;
+  margin-left: .75rem;
+}
+
+.antarctica-logo {
+  background: #99FFCC;/*00c7be 004fc5*/
+}
+
+.antarclica-logo {
+  background: #e9ecef;/*00c7be 004fc5*/ /*e9ecef*/
+}
+
+.freezer-logo {
+  background: #CCFFFF;/*00c7be 004fc5*/
+}
+
+.penger-logo {
+  background: #ffe8d1a6;/*00c7be 004fc5 fff3d9 ffe8d1a6*/
+}
